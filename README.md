@@ -10,34 +10,10 @@
 ### 中国人民大学 | 中国，北京
 - **知识产权法, 法学硕士 &emsp; &emsp; 09/2020-07/2023 &ensp; 知识产权学院**
   - 相关课程：民法，知识产权法等
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 相关技能及证书
+- *从业资格证书*
+  - 教师资格证（小学） NO...? 时间？；国家统一法律职业资格考试 NO...? 时间？ 其它
+- *语言能力*
+  - 汉语（普通话水平测试：一级乙等），英语（大学英语六级考试 624）
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhuonanli/zhuonanli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
