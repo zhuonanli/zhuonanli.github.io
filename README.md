@@ -1,10 +1,15 @@
 # 李卓楠个人主页
-## Welcome to GitHub Pages
+---
+## 教育背景
 
-You can use the [editor on GitHub](https://github.com/zhuonanli/zhuonanli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### 中国农业大学 | 中国，北京
+- **生物科学专业, 理学学士 &emsp; &emsp; 09/2016-07/2020 &ensp; 生物学院**
+  - GPA: 3.87/4.00, 排名:2/50
+  - 相关课程：高等数学A, 线性代数, 概率论与数理统计, 学术英语听说，学术英语写作等。
+  
+### 中国人民大学 | 中国，北京
+- **知识产权法, 法学硕士 &emsp; &emsp; 09/2020-07/2023 &ensp; 知识产权学院**
+  - 相关课程：民法，知识产权法等
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
